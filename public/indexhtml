@@ -1,0 +1,20 @@
+<!-- <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Gamedev Canvas Workshop</title>
+        <style>
+            * { padding: 0; margin: 0; }
+            canvas { background: #eee; display: block; margin: 0 auto; }
+        </style>
+    </head>
+    <body>
+        <canvas id="myCanvas" width="480" height="320"></canvas>
+        <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
+        <script type="module" src="js/MasterMind.js" defer></script>
+        <script type="module" src="js/InputManager.js" defer></script>
+        <script type="module" src="js/GameManager.js" defer></script>
+        <script type="module" src="js/ApplicationManager.js" defer></script>
+        <script type="module" src="js/HTMLActuator.js" defer></script>
+    </body>
+</html> -->
